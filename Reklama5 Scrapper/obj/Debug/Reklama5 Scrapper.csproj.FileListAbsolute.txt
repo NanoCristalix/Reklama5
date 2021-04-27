@@ -1,0 +1,14 @@
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe.config
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Form1.resources
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5_Scrapper.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.exe
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.pdb
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.dll
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.xml
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\m-vas\source\repos\Reklama5 Scrapper\Reklama5 Scrapper\obj\Debug\Reklama5 Scrapper.csproj.CopyComplete
